@@ -44,6 +44,18 @@
 /processorParam:TextureFormat=Color
 /build:coins.png
 
+#begin DeeYan-Key-TheGame.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:DeeYan-Key-TheGame.mp3
+
+#begin Pickup_Coin15.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Pickup_Coin15.wav
+
 #begin slime.png
 /importer:TextureImporter
 /processor:TextureProcessor
